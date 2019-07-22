@@ -36,6 +36,7 @@
 - [Bradley Gray-hall]
 - [Malik Mukhtar] (htpps://github.com/malikmukhtar)
 - [Ece Deniz] (https://github.com/exosolarplanet)
+- [Faizan Razzaq] (https://github.com/faizanrazaq)
 - [Kartik Sama] (https://github.com/Kartik-Sama)
 -[Harman singh] (https://github.com/Harman-singh-waraich)
 -[Aamir Soni] (https://github.com/Aamir1551)
